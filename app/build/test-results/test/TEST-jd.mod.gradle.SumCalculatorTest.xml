@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jd.mod.gradle.SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-27T08:28:59" hostname="DESKTOP-MD7H4GV" time="0.036">
+  <properties/>
+  <testcase name="testSumWithPositiveNumberGreaterThanOne()" classname="jd.mod.gradle.SumCalculatorTest" time="0.027"/>
+  <testcase name="testSumWithPositiveNumber()" classname="jd.mod.gradle.SumCalculatorTest" time="0.0"/>
+  <testcase name="testSumWithZero()" classname="jd.mod.gradle.SumCalculatorTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
